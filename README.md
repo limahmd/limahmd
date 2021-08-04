@@ -1,7 +1,7 @@
  <div>
   <a href="https://github.com/limahmd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=limahmd&show_icons=true&theme=algolia&include_all_commits=true"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limahmd&layout=compact&langs_count=6&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=limahmd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limahmd&layout=compact&langs_count=20&theme=algolia"/>
 </div>
  
 <div style="display: inline_block"><br>
